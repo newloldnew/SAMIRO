@@ -2,7 +2,7 @@
 
 ### Spatial Attention Mutual Information Regularization with a Pre-trained Model as Oracle for Lane Detection
 
-PyTorch official implementation of "[SAMIRO: Spatial Attention Mutual Information Regularization with a Pre-trained Model as Oracle for Lane Detection"](https://www.sciencedirect.com/science/article/pii/S0167865525003423).
+PyTorch official implementation of [SAMIRO: Spatial Attention Mutual Information Regularization with a Pre-trained Model as Oracle for Lane Detection](https://www.sciencedirect.com/science/article/pii/S0167865525003423).
 
 Hyunjong Lee, Jangho Lee, and Jaekoo Lee.
 

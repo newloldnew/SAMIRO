@@ -12,3 +12,6 @@ An overview of our proposed model. Overview of the proposed approach. The approa
 <img width="1064" height="395" alt="image" src="https://github.com/user-attachments/assets/dc8c97d6-431f-42f8-96eb-15c44c925d01" />
 
 Experimental results on CULane dataset. Bold text represents the best results
+
+## License
+This project includes code from [khanrc/miro](https://github.com/khanrc/miro) (MIT License).
